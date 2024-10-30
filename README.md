@@ -36,6 +36,10 @@ YI_MODEL=yi-large
 
 请复制 `.env.example` 文件为 `.env` 并填入你的配置信息。
 
+## 使用截图
+
+![使用截图](https://s2.loli.net/2024/10/30/QnNz7erCK1Ed4LG.png)
+
 ## 使用方法
 
 1. 克隆项目：
