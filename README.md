@@ -26,7 +26,7 @@ Academic Agents V2 是一个基于大语言模型的学术论文写作辅助工�
 1. 环境变量配置
 2. .env 文件配置
 
-### 配置项
+### 配置项(只需要配置大模型参数，默认为零一万物，可使用兼容openai格式的任何大模型)
 
 ```bash
 YI_API_KEY=your_api_key_here
