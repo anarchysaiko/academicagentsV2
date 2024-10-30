@@ -28,9 +28,11 @@ Academic Agents V2 是一个基于大语言模型的学术论文写作辅助工�
 
 ### 配置项
 
+```bash
 YI_API_KEY=your_api_key_here
 YI_BASE_URL=<https://api.lingyiwanwu.com/v1>
 YI_MODEL=yi-large
+```
 
 请复制 `.env.example` 文件为 `.env` 并填入你的配置信息。
 
