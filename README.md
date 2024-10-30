@@ -1,6 +1,6 @@
 # Academic Agents V2 (学术写作智能助手)
 
-Academic Agents V2 是一个基于大语言模型的学术论文写作辅助工具。它通过多个专业化的智能代理（Agents）来协助用户完成从选题到大纲的论文写作过程。
+Academic Agents V2 是一个基于微软autogen框架开发的学术论文写作辅助工具。它通过多个专业化的智能代理（Agents）来协助用户完成从选题到大纲的论文写作过程。
 
 ## 功能特点
 
@@ -83,6 +83,10 @@ YI_MODEL=yi-large
 - **EssentialProblem**: 研究问题分析专家
 - **ResearchThesis**: 研究论题专家
 - **PaperTitleAndOutline**: 论文题目和大纲专家
+
+## 鸣谢
+
+特别感谢 [autogen](https://github.com/microsoft/autogen) 项目为本工具的开发提供了支持和灵感。
 
 ## 贡献指南
 
