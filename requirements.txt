@@ -1,0 +1,4 @@
+autogen
+openai
+colorama
+python-dotenv
